@@ -32,10 +32,10 @@ highlight VertSplit cterm=reverse gui=reverse
 highlight WildMenu ctermfg=0 ctermbg=226 guifg=Black guibg=Yellow
 
 " Diff
-highlight DiffAdd ctermfg=254 ctermbg=71 guifg=#E6E1DC guibg=#519F50
+highlight DiffAdd ctermfg=254 ctermbg=71 guifg=#f9f9f9 guibg=#519F50
 highlight DiffDelete ctermfg=236 ctermbg=234 guifg=#303030 guibg=#1c1c1c
 highlight DiffChange ctermbg=52 guibg=#600000
-highlight DiffText ctermfg=254 ctermbg=124 guifg=#E6E1DC guibg=#b00000
+highlight DiffText ctermfg=254 ctermbg=124 guifg=#f9f9f9 guibg=#b00000
 
 " Cursor
 highlight CursorColumn ctermbg=241 guibg=Grey40
@@ -59,7 +59,7 @@ highlight Constant ctermfg=67 guifg=#6D9CBE
 highlight Error ctermfg=215 ctermbg=88 guifg=#FFC66D guibg=#990000
 highlight Identifier ctermfg=67 guifg=#6D9CBE
 highlight Ignore ctermbg=235 guifg=bg
-highlight PreProc ctermfg=254 guifg=#E6E1DC
+highlight PreProc ctermfg=254 guifg=#f9f9f9
 highlight Special ctermfg=221 guifg=#ffcc66
 highlight Statement ctermfg=208 ctermbg=235 guifg=#ff8400 guibg=bg
 highlight Todo ctermfg=21 ctermbg=226 guifg=Blue guibg=Yellow
