@@ -58,3 +58,9 @@
 [submodule "bundle/vim-javascript-indent"]
 	path = bundle/vim-javascript-indent
 	url = https://github.com/itspriddle/vim-javascript-indent.git
+[submodule "bundle/perl-critic"]
+	path = bundle/perl-critic
+	url = https://github.com/mattfoster/vim-Perl-Critic.git
+[submodule "bundle/nerd-commenter"]
+	path = bundle/nerd-commenter
+	url = https://github.com/scrooloose/nerdcommenter.git
