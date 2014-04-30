@@ -35,7 +35,7 @@ hi LineNr       guifg=#eeeeee   guibg=#438ec3   gui=bold
 hi MatchParen   guibg=#cddae5
 
 " Specials
-hi Todo         guifg=#e50808   guibg=#dbf3cd   gui=bold
+hi Todo         guibg=#e50808   guifg=#ffffff   gui=bold
 hi Title        guifg=#000000   gui=bold
 hi Special      guifg=#fd8900
 
