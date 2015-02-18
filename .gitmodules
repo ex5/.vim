@@ -52,9 +52,6 @@
 [submodule "bundle/bufonly"]
 	path = bundle/bufonly
 	url = https://github.com/duff/vim-bufonly.git
-[submodule "bundle/vim-javascript-indent"]
-	path = bundle/vim-javascript-indent
-	url = https://github.com/itspriddle/vim-javascript-indent.git
 [submodule "bundle/perl-critic"]
 	path = bundle/perl-critic
 	url = https://github.com/mattfoster/vim-Perl-Critic.git
