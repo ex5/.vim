@@ -1,5 +1,5 @@
 "
-" SummerFruit Color Scheme
+" Color Scheme
 " ========================
 "
 " Author:   Armin Ronacher <armin.ronacher@active-4.com>
@@ -12,7 +12,7 @@ if exists("syntax_on")
   syntax reset
 endif
 
-let colors_name = "summerfruit"
+let colors_name = "mine"
 
 " Global
 hi Normal       guifg=#000000   guibg=#ffffff
