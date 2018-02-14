@@ -85,3 +85,9 @@ hi jinjaOperator    guifg=#ffffff   guibg=#fbf4c7
 hi jinjaVariable    guifg=#92cd35   guibg=#fbf4c7
 hi jinjaAttribute   guifg=#dd7700   guibg=#fbf4c7
 hi jinjaSpecial     guifg=#008ffd   guibg=#fbf4c7
+
+" Plugin: Vimdiff
+hi DiffText       ctermbg=9 guibg=Red guifg=LightCyan
+hi DiffChange     ctermbg=225 guibg=LightMagenta
+hi DiffAdd        ctermbg=81 guibg=LightBlue
+hi DiffDelete     ctermfg=12 ctermbg=159 guifg=Blue guibg=LightCyan
