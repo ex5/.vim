@@ -67,3 +67,6 @@
 [submodule "bundle/colorizer"]
 	path = bundle/colorizer
 	url = git@github.com:chrisbra/Colorizer.git
+[submodule "bundle/vim-pug"]
+	path = bundle/vim-pug
+	url = git://github.com/digitaltoad/vim-pug.git
