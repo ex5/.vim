@@ -60,13 +60,16 @@
 	url = https://github.com/KabbAmine/vCoolor.vim.git
 [submodule "bundle/vim-apib"]
 	path = bundle/vim-apib
-	url = git@github.com:lrampa/vim-apib.git
+	url = https://github.com/lrampa/vim-apib.git
 [submodule "bundle/apiblueprint.vim"]
 	path = bundle/apiblueprint.vim
-	url = git@github.com:kylef/apiblueprint.vim.git
+	url = https://github.com/kylef/apiblueprint.vim.git
 [submodule "bundle/colorizer"]
 	path = bundle/colorizer
-	url = git@github.com:chrisbra/Colorizer.git
+	url = https://github.com/chrisbra/Colorizer.git
 [submodule "bundle/vim-pug"]
 	path = bundle/vim-pug
-	url = git://github.com/digitaltoad/vim-pug.git
+	url = https://github.com/digitaltoad/vim-pug.git
+[submodule "bundle/vim-tab"]
+	path = bundle/vim-tab
+	url = https://github.com/rargo/vim-tab.git
