@@ -73,3 +73,6 @@
 [submodule "bundle/vim-tab"]
 	path = bundle/vim-tab
 	url = https://github.com/rargo/vim-tab.git
+[submodule "bundle/fontsize"]
+	path = bundle/fontsize
+	url = git@github.com:drmikehenry/vim-fontsize.git
