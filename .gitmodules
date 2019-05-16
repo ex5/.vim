@@ -98,6 +98,6 @@
 	path = bundle/fontsize
 	url = git@github.com:drmikehenry/vim-fontsize.git
     ignore = dirty
-[submodule "colorizer_"]
+[submodule "colorizer"]
 	path = bundle/colorizer
 	url = https://github.com/lilydjwg/colorizer.git
