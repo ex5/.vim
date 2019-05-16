@@ -86,10 +86,6 @@
 	path = bundle/apiblueprint.vim
 	url = https://github.com/kylef/apiblueprint.vim.git
     ignore = dirty
-[submodule "bundle/colorizer"]
-	path = bundle/colorizer
-	url = https://github.com/chrisbra/Colorizer.git
-    ignore = dirty
 [submodule "bundle/vim-pug"]
 	path = bundle/vim-pug
 	url = https://github.com/digitaltoad/vim-pug.git
