@@ -10,10 +10,6 @@
 	path = bundle/git
 	url = https://github.com/tpope/vim-git.git
     ignore = dirty
-[submodule "bundle/supertab"]
-	path = bundle/supertab
-	url = https://github.com/ervandew/supertab.git
-    ignore = dirty
 [submodule "bundle/minibufexpl"]
 	path = bundle/minibufexpl
 	url = https://github.com/fholgado/minibufexpl.vim.git
@@ -101,3 +97,6 @@
 [submodule "colorizer"]
 	path = bundle/colorizer
 	url = https://github.com/lilydjwg/colorizer.git
+[submodule "bundle/vim-smarttabs"]
+	path = bundle/vim-smarttabs
+	url = https://github.com/dpc/vim-smarttabs.git
