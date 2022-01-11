@@ -100,3 +100,9 @@
 [submodule "bundle/vim-smarttabs"]
 	path = bundle/vim-smarttabs
 	url = https://github.com/dpc/vim-smarttabs.git
+[submodule "bundle/html5.vim"]
+	path = bundle/html5.vim
+	url = https://github.com/cyberdummy/html5.vim.git
+[submodule "bundle/django-plus.vim"]
+	path = bundle/django-plus.vim
+	url = https://github.com/tweekmonster/django-plus.vim.git
